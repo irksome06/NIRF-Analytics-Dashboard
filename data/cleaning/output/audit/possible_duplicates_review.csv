@@ -1,0 +1,437 @@
+state,name_a,years_a,name_b,years_b,similarity
+Andhra Pradesh,AU College of Arts and Commerce,2017,College of Arts & Commerce,2018,0.933
+Andhra Pradesh,AU College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",JNTUA College of Engineering,"2017,2018,2019,2020,2022",0.848
+Andhra Pradesh,AU College of Science and Technology,2017,College of Science & Technology,2018,0.93
+Andhra Pradesh,Acharaya Nagarjuna University,"2017,2018,2021,2022",Acharya Nagarjuna University,"2024,2025",0.971
+Andhra Pradesh,Acharya Nagarjuna University,"2024,2025",Acharya Nagarjuna University College of Pharmaceutical Sciences,"2017,2018,2019,2020,2022,2023,2024,2025",0.479
+Andhra Pradesh,Aditya Degree College,2017,Sreepada Degree College,2017,0.818
+Andhra Pradesh,Bapatla College of Arts & Science,2017,P.B. Sidhartha College of Arts and Science,2017,0.82
+Andhra Pradesh,Chaitanya Degree College for Women,2017,Govt. Degree College for Women,2018,0.825
+Andhra Pradesh,Chalapathi Institute of Pharmaceutical Sciences,"2017,2018,2019,2020,2021,2022,2023",Chebrolu Hanumaiah Institute of Pharmaceutical Sciences,2017,0.814
+Andhra Pradesh,Dr. B. R. Ambedkar College of Law,"2018,2019,2024,2025",Dr. B. R. Ambedkar University,2017,0.7
+Andhra Pradesh,Dr. V. S. Krishna Govt. Degree College,"2018,2019,2020",Dr.V.S.Krishna Govt. Degree College,2017,0.969
+Andhra Pradesh,Dr. V. S. Krishna Govt. Degree College,"2018,2019,2020",SRR & CVR Govt. Degree College,"2017,2020",0.8
+Andhra Pradesh,Dr.V.S.Krishna Govt. Degree College,2017,Drg Government Degree College,2017,0.815
+Andhra Pradesh,Dr.V.S.Krishna Govt. Degree College,2017,S. R. R. & C. V. R. Govt. Degree College,2019,0.807
+Andhra Pradesh,Drg Government Degree College,2017,R K Degree College,2017,0.8
+Andhra Pradesh,Drg Government Degree College,2017,S. R. R. & C. V. R. Govt. Degree College,2019,0.857
+Andhra Pradesh,Drg Government Degree College,2017,S.V. Degree College,2017,0.8
+Andhra Pradesh,Drg Government Degree College,2017,SRR & CVR Govt. Degree College,"2017,2020",0.84
+Andhra Pradesh,Drg Government Degree College,2017,Subharam Government Degree College,2017,0.824
+Andhra Pradesh,Government College - Rajahmundry,"2017,2020,2021,2022",Govt. College,2017,0.667
+Andhra Pradesh,Government College for Men,2017,Govt. College,2017,0.75
+Andhra Pradesh,Government College for Men,2017,Govt. Degree College for Women,2018,0.816
+Andhra Pradesh,Government College for Men,2017,Y.A. Govt. College for Women,2017,0.889
+Andhra Pradesh,Govt. Degree College - Chittoor,2017,Govt. Degree College - Kurnool,2017,0.8
+Andhra Pradesh,Govt. Degree College for Women,2018,Y.A. Govt. College for Women,2017,0.815
+Andhra Pradesh,Jawaharlal Nehru Technological University - Anantapur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Jawaharlal Nehru Technological University - Kakinada,"2017,2018,2019,2020,2022,2023,2024,2025",0.899
+Andhra Pradesh,KVSR Siddhartha College of Pharmaceutical Sciences,"2017,2018,2019,2020",Sir C.R. Reddy College of Pharmaceutical Sciences,2017,0.813
+Andhra Pradesh,MVR Degree College,2017,Prabhas Degree College,2017,0.8
+Andhra Pradesh,MVR Degree College,2017,R K Degree College,2017,0.914
+Andhra Pradesh,MVR Degree College,2017,S.V. Degree College,2017,0.914
+Andhra Pradesh,Prabhas Degree College,2017,R K Degree College,2017,0.821
+Andhra Pradesh,Prabhas Degree College,2017,S.V. Degree College,2017,0.821
+Andhra Pradesh,Prabhas Degree College,2017,Sreepada Degree College,2017,0.8
+Andhra Pradesh,Prasad V Potluri Siddhartha Institue of Technology,"2018,2020,2021",Prasad V Potluri Siddhartha Institute of Technology,2022,0.949
+Andhra Pradesh,R K Degree College,2017,S.V. Degree College,2017,0.882
+Andhra Pradesh,R K Degree College,2017,Sreepada Degree College,2017,0.8
+Andhra Pradesh,R. V. R. & J. C. College of Engineering,"2018,2020,2021,2022",R.V.R. & J.C. College of Engineering,2017,0.973
+Andhra Pradesh,S. R. R. & C. V. R. Govt. Degree College,2019,SRR & CVR Govt. Degree College,"2017,2020",0.981
+Andhra Pradesh,S. R. R. & C. V. R. Govt. Degree College,2019,Subharam Government Degree College,2017,0.815
+Andhra Pradesh,S.V. Degree College,2017,Sreepada Degree College,2017,0.8
+Andhra Pradesh,S.V.R.M. College,2017,V.S.M. College,2017,0.87
+Andhra Pradesh,SRR & CVR Govt. Degree College,"2017,2020",Subharam Government Degree College,2017,0.8
+Andhra Pradesh,Sagi Rama Krishnam Raju Engineering College,2020,Sagi Ramakrishnam Raju Engineering College,"2017,2018,2019,2021,2022",0.986
+Andhra Pradesh,Sri Murali Krishna Degree College,2017,Sri Ramakrishna Degree College,2017,0.889
+Andhra Pradesh,Sri Padmavathi Mahila Visvavidyalayam,"2018,2019,2020,2021,2022,2023,2024,2025",Sri Padmavati Mahila Vishwavidyalayam,2017,0.946
+Andhra Pradesh,Sri Venkateswara College of Engineering and Technology,"2018,2019,2020,2021,2022",Sri Venkateswara University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.64
+Andhra Pradesh,Sri Venkateswara College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",Sri Venkateswara University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.653
+Andhra Pradesh,Sri Venkateswara Institute of Medical Sciences,"2018,2019,2020,2021,2022,2023",Sri Venkateswara University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.593
+Andhra Pradesh,Sri Venkateswara University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sri Venkateswara Veterinary University,"2017,2018,2019,2023,2024",0.744
+Andhra Pradesh,St. Ann's College for Women (Andhra Pradesh),2017,"St. Josephs College for Women, (Autonomous)",2017,0.847
+Andhra Pradesh,Vishnu Dental College,2021,"Vishnu Dental College, Bheemavaram","2022,2023",0.778
+Assam,Dispur College,"2018,2019",Sonapur College,2018,0.828
+Assam,Indian Institute of Information Technology Guwahati,"2020,2021,2022,2023,2024",Indian Institute of Technology Guwahati,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.96
+Bihar,All India Institute of Medical Sciences Patna,"2023,2024,2025",Indian Institute of Technology Patna,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Bihar,Indian Institute of Technology Patna,"2017,2018,2019,2020,2021,2022,2023,2024,2025",National Institute of Technology Patna,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.889
+Chandigarh,D. A. V. College,"2017,2018,2019,2020",D.A.V.College,"2022,2023,2024,2025",0.952
+Chandigarh,"Government Post Graduate College for Girls, Chandigarh, Sector-11",2021,"Govt Post-graduate College for Girls, Sector-11","2019,2022,2023",0.893
+Chandigarh,"Government Post Graduate College for Girls, Chandigarh, Sector-11",2021,Govt. Post-Graduate College for Girls,"2018,2020",0.774
+Chandigarh,"Govt Post-graduate College for Girls, Sector-11","2019,2022,2023",Govt. Post-Graduate College for Girls,"2018,2020",0.878
+Chandigarh,Govt. Post-Graduate College for Girls,"2018,2020",Post Graduate Government College for Girls,"2017,2018,2019,2020",0.861
+Chhattisgarh,All India Institute of Medical Sciences Raipur,"2022,2023,2024,2025",Indian Institute of Management Raipur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.909
+Chhattisgarh,Indian Institute of Management Raipur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",National Institute of Technology Raipur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Chhattisgarh,Pt. Ravishankar Shukla University,"2017,2018,2019,2020,2021,2022,2023",Pt.Ravishankar Shukla University,2017,0.976
+Delhi,All India Institute of Medical Sciences New Delhi,2018,"All India Institute of Medical Sciences, Delhi","2019,2020,2021,2022,2023,2024,2025",0.846
+Delhi,"All India Institute of Medical Sciences, Delhi","2019,2020,2021,2022,2023,2024,2025",Indian Institute of Technology Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Delhi,Atma Ram Sanatan Dharm College,"2018,2019,2020,2021,2022,2023,2024,2025",Atma Ram Sanatan Dharma College,2017,0.984
+Delhi,Bhaskara Charya College of Applied Science,2017,Bhaskaracharya College of Applied Sciences,"2021,2022,2023,2024,2025",0.974
+Delhi,Delhi Institute of Pharmaceutical Sciences & Research,"2017,2018,2019,2020",Delhi Pharmaceutical Sciences and Research University,"2021,2022,2023,2024,2025",0.938
+Delhi,Indian Institute of Technology Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",National Institute of Technology Delhi,"2020,2021,2022,2023,2024,2025",0.889
+Delhi,Jagan Institute of Management Studies,"2018,2019,2020,2021,2022,2023,2025",Jagan Institute of Management Studies Technical Campus,"2017,2024",0.773
+Delhi,Jagan Institute of Management Studies,"2018,2019,2020,2021,2022,2023,2025",Maharaja Agrasen Institute of Management Studies,"2023,2025",0.841
+Delhi,Jagannath International Management School,2021,"Jagannath International Management School, Kalkaji",2018,0.911
+Delhi,Maharaja Surajmal Institute,"2022,2023,2024,2025",Maharaja Surajmal Institute of Technology,"2017,2018,2020,2021",0.898
+Delhi,National Institute of Technology Delhi,"2020,2021,2022,2023,2024,2025",University of Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.842
+Delhi,Rajdhani College,"2021,2022,2023,2024,2025",Ramjas College,"2021,2022,2023,2025",0.8
+Delhi,Ramanujan College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Ramjas College,"2021,2022,2023,2025",0.839
+Goa,Dempo Charities Trust Dhempe College of Arts & Science,"2019,2021,2022,2024,2025",Dempo Charities Trust Dhempe College of Arts & Science Miramar,2018,0.925
+Goa,"Government College of Arts Science & Commerce, Khandola","2019,2021","Government College of Arts, Science and Commerce - Marcela",2020,0.894
+Goa,"Government College of Arts Science & Commerce, Khandola","2019,2021","Government College of Arts, Science and Commerce - Sankhali",2020,0.907
+Goa,"Government College of Arts Science & Commerce, Khandola","2019,2021","Government College of Arts, Science and Commerce Quepem",2017,0.833
+Goa,"Government College of Arts Science & Commerce, Khandola","2019,2021",Govt. College of Arts Science & Commerce Sanquelim,2019,0.874
+Goa,"Government College of Arts, Science and Commerce - Marcela",2020,"Government College of Arts, Science and Commerce - Sankhali",2020,0.871
+Goa,"Government College of Arts, Science and Commerce - Marcela",2020,"Government College of Arts, Science and Commerce Quepem",2017,0.867
+Goa,"Government College of Arts, Science and Commerce - Marcela",2020,Govt. College of Arts Science & Commerce Sanquelim,2019,0.884
+Goa,"Government College of Arts, Science and Commerce - Sankhali",2020,"Government College of Arts, Science and Commerce Quepem",2017,0.833
+Goa,"Government College of Arts, Science and Commerce - Sankhali",2020,Govt. College of Arts Science & Commerce Sanquelim,2019,0.92
+Goa,"Government College of Arts, Science and Commerce Quepem",2017,Govt. College of Arts Science & Commerce Sanquelim,2019,0.918
+Goa,Indian Institute of Technology Goa,2025,National Institute of Technology Goa,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.857
+Gujarat,Anand Agricultural University,"2017,2018,2019,2023,2024,2025",Junagadh Agricultural University,"2018,2019,2023",0.821
+Gujarat,Bahauddin Govt. Science College,"2017,2018",Government Science College,2017,0.8
+Gujarat,Institute of Science & Technology for Advanced Studies & Research (ISTAR) College,2020,"Institute of Science & Technology for Advanced Studies & Research (ISTAR)(SFI),Vallabh Vidyanagar","2021,2022",0.843
+Gujarat,Institute of Science & Technology for Advanced Studies & Research (ISTAR) College,2020,"Institute of Science & Technology for Advanced Studies & Research (ISTAR)(SFI),Vallabh Vidyanagar 511",2023,0.816
+Gujarat,"Institute of Science & Technology for Advanced Studies & Research (ISTAR)(SFI),Vallabh Vidyanagar","2021,2022","Institute of Science & Technology for Advanced Studies & Research (ISTAR)(SFI),Vallabh Vidyanagar 511",2023,0.971
+Haryana,I.C. College of Community Science,"2024,2025",I.C.College of Home Science,"2020,2021,2022,2023",0.8
+Haryana,Manav Rachna International Institute of Research & Studies,"2018,2019,2020,2021,2022,2023,2024,2025",Manav Rachna University,2022,0.4
+Haryana,Manav Rachna International Uniersity,2017,Manav Rachna University,2022,0.5
+Haryana,Pandit Bhagwat Dayal Sharma University of Health Sciences,"2023,2024",Pt. Bhagwat Dayal Sharma University of Health Sciences,2025,0.957
+Himachal Pradesh,Dr. Y. S. Parmar University of Horticulture and Forestry,"2018,2019,2023,2024,2025",Dr. Y.S.Parmar University of Horticulture & Forestry,2017,0.987
+Himachal Pradesh,"Himachal Pradesh National Law University, Shimla",2025,Himachal Pradesh University,"2017,2018,2019,2020",0.561
+Jammu and Kashmir,"Government College for Women, Parade Ground, Jammu",2024,Govt. College for Women,2017,0.688
+Jammu and Kashmir,Indian Institute of Management Jammu (IIMJ),"2021,2022,2023,2024,2025",Indian Institute of Technology Jammu,"2023,2024,2025",0.889
+Jammu and Kashmir,Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,"2024,2025",Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,"2023,2024,2025",0.923
+Karnataka,A M C College of Engineering,"2018,2020",B.M.S. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.875
+Karnataka,A M C College of Engineering,"2018,2020",Malnad College of Engineering,2018,0.8
+Karnataka,A M C College of Engineering,"2018,2020",P E S College of Engineering,"2019,2020,2021,2022,2023",0.812
+Karnataka,A M C College of Engineering,"2018,2020",R.V. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.839
+Karnataka,B V V Sangha's Basaveshwar Engineering College,2017,Basaveshwar Engineering College,"2019,2020,2021,2022",0.8
+Karnataka,B.M.S. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Malnad College of Engineering,2018,0.8
+Karnataka,B.M.S. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",P E S College of Engineering,"2019,2020,2021,2022,2023",0.875
+Karnataka,B.M.S. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",R.V. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.839
+Karnataka,BNM Institute of Technology,"2017,2018,2019,2020,2021,2022",C M R Institute of Technology,"2019,2020,2021,2022,2023,2024,2025",0.846
+Karnataka,BNM Institute of Technology,"2017,2018,2019,2020,2021,2022",NMAM Institute of Technology,"2018,2019,2020,2021,2022,2023,2024,2025",0.889
+Karnataka,BNM Institute of Technology,"2017,2018,2019,2020,2021,2022",R. N. S. Institute of Technology,"2020,2021",0.846
+Karnataka,Bapuji Dental College & Hospital,"2020,2021,2023,2024",JSS Dental College and Hospital,"2020,2021,2022,2023,2024,2025",0.877
+Karnataka,C M R Institute of Technology,"2019,2020,2021,2022,2023,2024,2025",NMAM Institute of Technology,"2018,2019,2020,2021,2022,2023,2024,2025",0.815
+Karnataka,C M R Institute of Technology,"2019,2020,2021,2022,2023,2024,2025",R. N. S. Institute of Technology,"2020,2021",0.846
+Karnataka,Gogte Institute of Technology,"2020,2021","Gogte Institute of Technology, Belgaum",2022,0.789
+Karnataka,Gogte Institute of Technology,"2020,2021",K.L.S. Gogte Institute of Technology,2017,0.882
+Karnataka,JSS Academy of Higher Education and Research,"2018,2019,2020,2021,2022,2023,2024,2025",KLE Academy of Higher Education and Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.919
+Karnataka,JSS Academy of Higher Education and Research,"2018,2019,2020,2021,2022,2023,2024,2025",Sri Devraj Urs Academy of Higher Education and Research,"2020,2021,2022,2023,2024",0.847
+Karnataka,JSS Dental College and Hospital,"2020,2021,2022,2023,2024,2025",Raja Rajeswari Dental College & Hospital,"2021,2022",0.8
+Karnataka,KLE Academy of Higher Education and Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sri Devraj Urs Academy of Higher Education and Research,"2020,2021,2022,2023,2024",0.824
+Karnataka,KLE College of Pharmacy - Belgaum,"2018,2019,2020,2021,2022,2023,2024,2025",KLE College of Pharmacy - Bengaluru,"2020,2021,2022,2023,2024,2025",0.897
+Karnataka,KLE College of Pharmacy - Belgaum,"2018,2019,2020,2021,2022,2023,2024,2025",KLE College of Pharmacy - Hubballi,"2019,2020",0.807
+Karnataka,KLE College of Pharmacy - Belgaum,"2018,2019,2020,2021,2022,2023,2024,2025","KLE College of Pharmacy, Hubli","2021,2022,2024,2025",0.852
+Karnataka,KLE College of Pharmacy - Bengaluru,"2020,2021,2022,2023,2024,2025",KLE College of Pharmacy - Hubballi,"2019,2020",0.814
+Karnataka,KLE College of Pharmacy - Bengaluru,"2020,2021,2022,2023,2024,2025","KLE College of Pharmacy, Hubli","2021,2022,2024,2025",0.821
+Karnataka,KLE College of Pharmacy - Hubballi,"2019,2020","KLE College of Pharmacy, Hubli","2021,2022,2024,2025",0.945
+Karnataka,Kasturba Medical College - Mangalore,"2018,2019,2020,2021,2022,2023,2024,2025",Kasturba Medical College - Manipal,"2018,2019,2020,2021,2022,2023,2024,2025",0.909
+Karnataka,"M S Ramaiah College of Arts, Science, and Commerce","2020,2021,2022,2023,2024,2025","Sri Vivekananda College of Arts, Science & Commerce",2018,0.824
+Karnataka,"Manipal College of Dental Sciences, Mangalore","2020,2021,2022,2023,2024,2025","Manipal College of Dental Sciences, Manipal","2020,2021,2022,2023,2024,2025",0.925
+Karnataka,NITTE,"2018,2019,2020,2021,2022,2023,2024,2025",NITTE Education Trust School of Management,2017,0.227
+Karnataka,NITTE,"2018,2019,2020,2021,2022,2023,2024,2025",NITTE Meenakshi Institute of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.333
+Karnataka,NITTE,"2018,2019,2020,2021,2022,2023,2024,2025",NITTE University,2017,0.667
+Karnataka,NMAM Institute of Technology,"2018,2019,2020,2021,2022,2023,2024,2025",R. N. S. Institute of Technology,"2020,2021",0.815
+Karnataka,P E S College of Engineering,"2019,2020,2021,2022,2023",R.V. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.839
+Karnataka,R.V. College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",The Oxford College of Engineering,2020,0.824
+Karnataka,S. E. T.'s College of Pharmacy,"2018,2019",S.E.T's College of Pharmacy,2017,0.977
+Karnataka,S. E. T.'s College of Pharmacy,"2018,2019",Srinivas College of Pharmacy,2017,0.809
+Karnataka,S.E.T's College of Pharmacy,2017,Srinivas College of Pharmacy,2017,0.826
+Karnataka,School of Management,2019,"School of Management, Manipal","2018,2020",0.81
+Karnataka,Sri D. Manjunatheswara College,2017,Sri Dharmasthala Manjunatheshwara College,"2018,2020",0.829
+Karnataka,Sri Siddharatha Acedemy of Higher Education,2020,Sri Siddhartha Academy of Higher Education,"2021,2022",0.962
+Karnataka,St. Josephs Arts & Science College,"2018,2019,2020,2021","St. Josephs Arts & Science College, Lalbhag Rd, Bangalore",2022,0.764
+Karnataka,St. Josephs Arts & Science College,"2018,2019,2020,2021","St. Josephs Arts & Science College, PB 27094, Lalbhag Rd,Bangalore-27 (Autonomous)",2023,0.673
+Karnataka,"St. Josephs Arts & Science College, Lalbhag Rd, Bangalore",2022,"St. Josephs Arts & Science College, PB 27094, Lalbhag Rd,Bangalore-27 (Autonomous)",2023,0.902
+Karnataka,University of Agricultural Sciences - Dharwad,"2018,2019,2023,2024,2025","University of Agricultural Sciences, Bangalore","2023,2024,2025",0.829
+Karnataka,University of Agricultural Sciences - Dharwad,"2018,2019,2023,2024,2025","University of Agricultural Sciences, Raichur",2023,0.853
+Karnataka,"University of Agricultural Sciences, Bangalore","2023,2024,2025","University of Agricultural Sciences, Raichur",2023,0.857
+Karnataka,Vesveswaraiah Technological University,"2018,2019",Visvesvaraya Technological University,"2020,2021,2022,2023,2024,2025",0.83
+Karnataka,Yenepoya Dental College,"2020,2021,2022,2023,2024,2025",Yenepoya Medical College,2018,0.851
+Kerala,"Al Shifa College of Pharmacy, Perinthalmanna","2017,2018,2019,2022,2023","Al Shifa College of Pharmacy, Poonthavanam",2020,0.872
+Kerala,"All Saints' College, Thiruvananthapuram",2025,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022",0.822
+Kerala,"All Saints' College, Thiruvananthapuram",2025,"Govt.Arts College, Thiruvananthapuram",2023,0.833
+Kerala,"All Saints' College, Thiruvananthapuram",2025,"MG College, Thiruvananthapuram","2021,2024",0.818
+Kerala,"All Saints' College, Thiruvananthapuram",2025,University College - Thiruvananthapuram,"2018,2019,2020,2021,2022,2023,2024,2025",0.824
+Kerala,B. C. M. College,2019,S. B. College,"2018,2019,2020,2021,2022,2023,2024,2025",0.857
+Kerala,B. C. M. College,2019,U. C. College,"2018,2019",0.857
+Kerala,"Baselius College, Kottayam","2020,2021,2022,2023,2024",CMS College Kottayam,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Kerala,Cochin University of Science and Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025","School of Engineering, Cochin University of Science and Technology","2017,2018,2019,2020",0.8
+Kerala,Devamatha College,"2019,2020","Devamatha College, Kuravilangad","2024,2025",0.723
+Kerala,Dr. Gafoor Memorial MES Mampad College,2020,"Dr. Gafoor Memorial Mes Mampad College, Mampad",2018,0.914
+Kerala,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022",Government Dental College - Thiruvananthapuram,"2022,2023,2024,2025",0.892
+Kerala,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022","Government Medical College, Thiruvananthapuram","2023,2024",0.88
+Kerala,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022","Govt. College for Women, Thiruvananthapuram","2019,2020,2021,2022,2023,2024,2025",0.805
+Kerala,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022","Govt.Arts College, Thiruvananthapuram",2023,0.986
+Kerala,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022","MG College, Thiruvananthapuram","2021,2024",0.862
+Kerala,"Government Arts College, Thiruvananthapuram","2019,2020,2021,2022",University College - Thiruvananthapuram,"2018,2019,2020,2021,2022,2023,2024,2025",0.836
+Kerala,Government College - Kasaragod,"2019,2020,2021,2025","Government College Kasaragod, Vidya Nagar",2022,0.786
+Kerala,Government College - Kasaragod,"2019,2020,2021,2025","Govt. College Kasaragod. Vidya Nagar P.O, Kasargod","2023,2025",0.647
+Kerala,"Government College Kasaragod, Vidya Nagar",2022,"Govt. College Kasaragod. Vidya Nagar P.O, Kasargod","2023,2025",0.85
+Kerala,Government Dental College - Thiruvananthapuram,"2022,2023,2024,2025","Government Medical College, Thiruvananthapuram","2023,2024",0.909
+Kerala,Government Dental College - Thiruvananthapuram,"2022,2023,2024,2025","Govt.Arts College, Thiruvananthapuram",2023,0.877
+Kerala,Government Dental College - Thiruvananthapuram,"2022,2023,2024,2025","MG College, Thiruvananthapuram","2021,2024",0.836
+Kerala,Government Dental College - Thiruvananthapuram,"2022,2023,2024,2025",University College - Thiruvananthapuram,"2018,2019,2020,2021,2022,2023,2024,2025",0.812
+Kerala,"Government Medical College, Thiruvananthapuram","2023,2024","Govt.Arts College, Thiruvananthapuram",2023,0.865
+Kerala,"Government Medical College, Thiruvananthapuram","2023,2024","MG College, Thiruvananthapuram","2021,2024",0.824
+Kerala,"Government Medical College, Thiruvananthapuram","2023,2024",University College - Thiruvananthapuram,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Kerala,"Govt. College for Women, Thiruvananthapuram","2019,2020,2021,2022,2023,2024,2025","Govt.Arts College, Thiruvananthapuram",2023,0.816
+Kerala,"Govt. College for Women, Thiruvananthapuram","2019,2020,2021,2022,2023,2024,2025","MG College, Thiruvananthapuram","2021,2024",0.8
+Kerala,"Govt.Arts College, Thiruvananthapuram",2023,"MG College, Thiruvananthapuram","2021,2024",0.875
+Kerala,"Govt.Arts College, Thiruvananthapuram",2023,University College - Thiruvananthapuram,"2018,2019,2020,2021,2022,2023,2024,2025",0.848
+Kerala,Indian Institute of Science Education & Research,2017,Indian Institute of Science Education & Research Thiruvananthapuram,"2018,2020,2021,2022,2023,2024,2025",0.345
+Kerala,Kerala University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Kerala University of Fisheries & Ocean Studies,"2023,2024,2025",0.478
+Kerala,Kuriakose Elias College,2018,Kuriakose Gregorios College,"2018,2019",0.84
+Kerala,Kuriakose Gregorios College,"2018,2019","Kuriakose Gregorios College, Pampady",2020,0.871
+Kerala,"MG College, Thiruvananthapuram","2021,2024",University College - Thiruvananthapuram,"2018,2019,2020,2021,2022,2023,2024,2025",0.9
+Kerala,Mahatma Gandhi College,"2018,2019,2020",Mahatma Gandhi University,"2018,2019,2020,2021,2022,2023,2024,2025",0.778
+Kerala,Mahatma Gandhi University,"2018,2019,2020,2021,2022,2023,2024,2025",Mahatma Gandhi Unversity,2017,0.737
+Kerala,Mar Athanasius College,"2018,2019,2020,2021,2022,2023,2024,2025",Mar Athanasius College for Advanced Studies,2020,0.677
+Kerala,Mar Ivanios College,"2018,2019,2020,2021,2022,2023,2024,2025",Marian College,"2018,2019,2020,2021",0.848
+Kerala,Marian College,"2018,2019,2020,2021","Marian College, Kuttikanam P.O. Peermade","2022,2023,2024,2025",0.549
+Kerala,Nirmala College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Nirmalagiri College,"2018,2019,2020,2021,2022,2023,2024,2025",0.882
+Kerala,Nirmala College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Vimala College,"2018,2019,2020,2021,2022,2023,2024,2025",0.897
+Kerala,Nirmala College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Vimla College,2017,0.857
+Kerala,PSMO College,"2019,2020","PSMO College, Thirurangadi","2021,2022,2023,2024",0.649
+Kerala,PSMO College,"2019,2020",S. B. College,"2018,2019,2020,2021,2022,2023,2024,2025",0.818
+Kerala,PSMO College,"2019,2020",S. N. College,2019,0.818
+Kerala,Rajagiri College of Social Sciences,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Rajagiri College of Social Sciences - School of Management,2017,0.78
+Kerala,S. B. College,"2018,2019,2020,2021,2022,2023,2024,2025",S. N. College,2019,0.9
+Kerala,S. B. College,"2018,2019,2020,2021,2022,2023,2024,2025",U. C. College,"2018,2019",0.8
+Kerala,S. N. College,2019,U. C. College,"2018,2019",0.8
+Kerala,"Shree Sankaracharya Univeristy of Sanskrit, Kalady",2021,Sree Sankaracharya University of Sanskrit,2020,0.821
+Kerala,"Sree Narayana College, Kollam","2023,2024,2025","Sree Narayana College, Nattika","2020,2021",0.842
+Kerala,St. Alberts College,"2018,2020,2021,2022",St. Mary's College (Kerala),"2017,2018",0.85
+Kerala,St. Alberts College,"2018,2020,2021,2022",St. Paul''s College,2021,0.829
+Kerala,St. Alberts College,"2018,2020,2021,2022",St. Teresa's College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.81
+Kerala,St. Dominic's College,"2019,2020","St. Dominic's College, Kanjirappally",2021,0.759
+Kerala,St. Dominic's College,"2019,2020","St. Dominic's College, Parathod P.O., Kanjirappally","2022,2023",0.629
+Kerala,"St. Dominic's College, Kanjirappally",2021,"St. Dominic's College, Parathod P.O., Kanjirappally","2022,2023",0.857
+Kerala,St. Joseph's College - Calicut,"2017,2018",St. Joseph's College - Thrissur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.814
+Kerala,St. Joseph's College - Calicut,"2017,2018","St. Joseph's College, Devagiri","2019,2020,2021,2022,2023,2024,2025",0.814
+Kerala,St. Joseph's College - Thrissur,"2017,2018,2019,2020,2021,2022,2023,2024,2025","St. Joseph's College, Devagiri","2019,2020,2021,2022,2023,2024,2025",0.8
+Kerala,St. Joseph's College - Thrissur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",St. Thomas College - Thrissur,"2018,2019,2020,2021,2022,2023,2024,2025",0.847
+Kerala,"St. Joseph's College for Women, Alappuzha",2024,"St.Joseph's College for Women, Alappuzha","2023,2025",0.949
+Kerala,St. Mary's College (Kerala),"2017,2018",St. Paul''s College,2021,0.821
+Kerala,St. Mary's College (Kerala),"2017,2018",St. Teresa's College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Kerala,St. Paul''s College,2021,St. Pius X College,2018,0.85
+Kerala,Vimala College,"2018,2019,2020,2021,2022,2023,2024,2025",Vimla College,2017,0.963
+Madhya Pradesh,All India Institute of Medical Sciences Bhopal,"2023,2024,2025",Indian Institute of Science Education & Research Bhopal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.833
+Madhya Pradesh,"IPS Academy, Institute of Business Management and Research",2017,Institute of Business Management and Research,"2020,2021",0.846
+Madhya Pradesh,Indian Institute of Management Indore,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Indian Institute of Technology Indore,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.9
+Madhya Pradesh,"Institute of Business Management & Research, IPS Academy","2018,2019",Institute of Business Management and Research,"2020,2021",0.846
+Maharashtra,AISSMS College of Pharmacy,"2017,2018,2020,2021,2022,2023,2024",MVP Samaj's College of Pharmacy,"2017,2018,2019,2020,2022,2023",0.8
+Maharashtra,AISSMS College of Pharmacy,"2017,2018,2020,2021,2022,2023,2024",Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Maharashtra,Balaji Institute of Management and HRD,2021,Balaji Institute of Modern Management,"2017,2018",0.8
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025","Bharati Vidyapeeth (Deemed to be University) Dental College and Hospital, Pune","2023,2024",0.554
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025","Bharati Vidyapeeth College of Pharmacy, Kolhapur","2017,2018,2019,2020,2021,2022,2023,2024,2025",0.581
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth Deemed University College of Engineering,"2017,2018,2019,2020,2021,2022,2024,2025",0.59
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth's College of Fine Arts,"2018,2019",0.655
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth's College of Pharmacy - Navi Mumbai,"2017,2018,2019,2020,2021,2022",0.545
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025","Bharati Vidyapeeth's College of Pharmacy, Sector 8, C.B.D. Belapur, Navi Mumbai","2023,2024,2025",0.414
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth's Dr. Patangarao Kadam Mahavidyalaya,2017,0.507
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth's Institute of Environment Education & Research,2017,0.493
+Maharashtra,Bharati Vidyapeeth,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth?s Institute of Management and Entrepreneurship Development,"2017,2020,2021,2022,2023,2024,2025",0.434
+Maharashtra,"Bharati Vidyapeeth College of Pharmacy, Kolhapur","2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharati Vidyapeeth's College of Pharmacy - Navi Mumbai,"2017,2018,2019,2020,2021,2022",0.826
+Maharashtra,Bharati Vidyapeeth's College of Pharmacy - Navi Mumbai,"2017,2018,2019,2020,2021,2022","Bharati Vidyapeeth's College of Pharmacy, Sector 8, C.B.D. Belapur, Navi Mumbai","2023,2024,2025",0.821
+Maharashtra,Bharati Vidyapeeth?s Institute of Management and Entrepreneurship Development,"2017,2020,2021,2022,2023,2024,2025",Institute of Management and Entrepreneurship Development,"2018,2019",0.807
+Maharashtra,Bombay College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Govt. College of Pharmacy,"2017,2018",0.818
+Maharashtra,Bombay College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.844
+Maharashtra,C.U.Shah College of Pharmacy,"2019,2020,2021,2022,2023,2024,2025",Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Maharashtra,C.U.Shah College of Pharmacy,"2019,2020,2021,2022,2023,2024,2025",Y. B. Chavan College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.816
+Maharashtra,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",R. C. Patel Institute of Pharmaceutical Education & Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.812
+Maharashtra,Govt. College of Pharmacy,"2017,2018",Oriental College of Pharmacy,"2018,2019,2020",0.826
+Maharashtra,Govt. College of Pharmacy,"2017,2018",Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.837
+Maharashtra,"Govt. Dental College, Mumbai","2023,2024,2025","Govt. Dental College, Nagpur","2022,2023,2024,2025",0.808
+Maharashtra,Institute of Pharmaceutical Education and Research,2017,R. C. Patel Institute of Pharmaceutical Education & Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.894
+Maharashtra,Institute of Pharmaceutical Education and Research,2017,SES's H. R. Patel Institute of Pharmaceutical Education and Research,2020,0.844
+Maharashtra,Jayawant Shikshan Prasarak Mandal's Rajarshi Shahu College of Engineering,"2020,2021",Jaywant Shikshan Prasarak Mandals Rajarshi Shahu College of Pharmacy & Research,2022,0.853
+Maharashtra,Krishna Institute of Medical Sciences,2020,"Krishna Institute of Medical Sciences Deemed University, Karad","2021,2022",0.763
+Maharashtra,Krishna Institute of Medical Sciences,2020,Pravara Institute of Medical Sciences,"2018,2019,2020,2021,2022,2023,2024",0.828
+Maharashtra,Krishna Vishwa Vidyapeeth,2024,"Krishna Vishwa Vidyapeeth, Karad, Maharashtra","2023,2025",0.735
+Maharashtra,MAEERS Maharashtra Institute of Pharmacy,2019,Maharashtra Institute of Pharmacy,2018,0.877
+Maharashtra,Maharashtra College of Pharmacy,2018,Vidyabharati College of Pharmacy,2017,0.807
+Maharashtra,Maharashtra National Law University Mumbai,2024,"Maharashtra National Law University, Nagpur","2024,2025",0.861
+Maharashtra,Marathwada Mitra Mandal's College of Pharmacy,"2020,2022,2023",Marathwada Mitra Mandal?s College of Pharmacy,2024,0.988
+Maharashtra,Narsee Monjee Institute of Management Studies,2017,SVKM's Narsee Monjee Institute of Management Studies,"2018,2019,2020,2021,2022,2023,2024,2025",0.925
+Maharashtra,Oriental College of Pharmacy,"2018,2019,2020",Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.851
+Maharashtra,P. E. Society's Modern College of Pharmacy,"2017,2019,2020,2022,2023,2024,2025",PES Modern College of Pharmacy,"2018,2019",0.871
+Maharashtra,PES Modern College of Pharmacy,"2018,2019",Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.816
+Maharashtra,Poona College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025","Poona College of Pharmacy, Erandwane, Pune",2017,0.746
+Maharashtra,Prin. L.N. Welingkar Institute of Management Development & Research,"2017,2024,2025",Principal L N Welingkar Institute of Management Development and Research,"2018,2019,2020,2021,2022,2023",0.956
+Maharashtra,Prin.K.M.Kundnani College of Pharmacy,2017,Principal K.M. Kundanani College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",0.886
+Maharashtra,Pune Institute of Business Management,"2017,2019,2020,2021,2022,2023,2025",Pune Institute of Business Management for PGDM (PIBM PGDM),2025,0.866
+Maharashtra,R. C. Patel Institute of Pharmaceutical Education & Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",SES's H. R. Patel Institute of Pharmaceutical Education and Research,2020,0.929
+Maharashtra,Sinhgad Technical Education Society's College of Pharmacy,"2018,2019,2020",Sinhgad Technical Education Society's Sinhgad College of Pharmacy,2017,0.93
+Maharashtra,Sinhgad Technical Education Society's College of Pharmacy,"2018,2019,2020",Vivekanand Education Society's College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023",0.808
+Maharashtra,Vidyabharati College of Pharmacy,2017,Y. B. Chavan College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Odisha,All India Institute of Medical Sciences Bhubaneswar,"2021,2022,2023,2024,2025",Indian Institute of Technology Bhubaneswar,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.875
+Odisha,Odisha University of Agriculture and Technology,"2023,2024,2025",Orissa University of Agriculture & Technology,"2018,2019",0.929
+Punjab,Chandigarh Engineering College,"2020,2021,2022","Chandigarh Engineering College-CGC, Landran, Mohali","2023,2024,2025",0.708
+Punjab,Guru Nanak Dev Engineering College,"2020,2021",Guru Nanak Dev University,"2017,2018,2019,2020,2021,2022,2023",0.683
+Punjab,I. S. F. College of Pharmacy,"2018,2019,2020,2021,2022,2023,2024,2025",I.S. F. College of Pharmacy,2017,0.976
+Rajasthan,All India Institute of Medical Sciences Jodhpur,"2021,2022,2023,2024,2025",Indian Institute of Technology Jodhpur,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.833
+Rajasthan,Manipal University Jaipur,"2017,2018,2019,2020,2021,2022,2023,2024,2025","NIMS University, Jaipur","2021,2022,2024,2025",0.8
+Rajasthan,Rajasthan University,"2017,2018","Rajasthan University of Health Sciences, Jaipur",2023,0.549
+Rajasthan,Rajasthan University,"2017,2018",Rajasthan University of Veterinary & Animal Sciences,"2017,2018,2019",0.509
+Sikkim,Sikkim Manipal Institute of Technology (SMIT),"2020,2021,2022",Sikkim Manipal University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.737
+Tamil Nadu,A. V. C. College,"2018,2019,2020,2021,2022,2023,2024,2025",A.V.C. College of Engineering,2017,0.815
+Tamil Nadu,A. V. C. College,"2018,2019,2020,2021,2022,2023,2024,2025",A.V.C. College-District Quaide-E-Milleth,2017,0.564
+Tamil Nadu,A.V.C. College of Engineering,2017,Government College of Engineering,2020,0.848
+Tamil Nadu,A.V.C. College of Engineering,2017,K S R College of Engineering,2017,0.812
+Tamil Nadu,B. S. Abdur Rahman Crescent Institute of Science and Technology,"2019,2020,2021,2022,2023,2024,2025",B.S. Abdur Rahman Institute of Science and Technology,"2017,2018",0.88
+Tamil Nadu,Bharath Institute of Higher Education & Research,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sri Ramachandra Institute of Higher Education and Research,"2019,2020,2021,2022,2023,2024,2025",0.833
+Tamil Nadu,Bharathiar University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Bharathidasan University,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.848
+Tamil Nadu,Cauvery College for Women,"2018,2019,2020","Cauvery College for Women, Annamalai Nagar, Tiruchirappalli","2023,2024,2025",0.61
+Tamil Nadu,Cauvery College for Women,"2018,2019,2020",Vellalar College for Women,"2018,2019,2020,2021,2022,2023,2024,2025",0.824
+Tamil Nadu,Chettinad Academy of Research and Education,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Kalasalingam Academy of Research and Education,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,DG Vaishnav College,"2022,2023,2024,2025",SDNB Vaishnav College,"2018,2019,2021,2022,2023,2024,2025",0.9
+Tamil Nadu,Department of Management Studies,"2018,2019",Department of Management Studies - M.B.A,2017,0.935
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Dr. R.V. Arts and Science College,2017,0.906
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",K. S. R. Arts & Science College,2019,0.863
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Kongu Arts & Science College,"2017,2018,2019",0.868
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Kongunadu Arts & Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.807
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Mahendra Arts & Science College,"2017,2018,2019,2020,2021",0.821
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Nehru Arts and Science College,"2022,2023,2024,2025",0.83
+Tamil Nadu,Dr. N. G. P. Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sri Krishna Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.814
+Tamil Nadu,Dr. R.V. Arts and Science College,2017,K. S. R. Arts & Science College,2019,0.88
+Tamil Nadu,Dr. R.V. Arts and Science College,2017,Kongu Arts & Science College,"2017,2018,2019",0.808
+Tamil Nadu,Dr. R.V. Arts and Science College,2017,Mahendra Arts & Science College,"2017,2018,2019,2020,2021",0.836
+Tamil Nadu,Dr. R.V. Arts and Science College,2017,Nehru Arts and Science College,"2022,2023,2024,2025",0.846
+Tamil Nadu,Dr. R.V. Arts and Science College,2017,Sri Krishna Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.828
+Tamil Nadu,Ethiraj College for Women,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Meenakshi College for Women,"2017,2018",0.808
+Tamil Nadu,Ethiraj College for Women,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Nirmala College for Women,"2017,2018,2019,2020,2021,2022,2023,2024",0.84
+Tamil Nadu,Fatima College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",National College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Chennai,2025,0.81
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Coimbatore,"2018,2019,2020,2021,2022,2023,2024,2025",0.756
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Cuddalore,2018,0.773
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Karur,2018,0.85
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Kumbakonam,"2019,2020,2022,2023,2024,2025",0.756
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Salem,"2020,2021,2022,2023,2024,2025",0.85
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Tiruppur,"2018,2021,2022,2023,2025",0.791
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College - Udumalpet,"2019,2020",0.773
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Government Arts College for Women,2025,0.773
+Tamil Nadu,GOVERNMENT ARTS COLLEGE,2023,Govt. Arts College Thiruvannamalai,"2020,2022,2023",0.68
+Tamil Nadu,Government Arts College - Coimbatore,"2018,2019,2020,2021,2022,2023,2024,2025",Government Arts College - Cuddalore,2018,0.836
+Tamil Nadu,Government Arts College - Cuddalore,2018,Government Arts College - Karur,2018,0.8
+Tamil Nadu,Government Arts College - Cuddalore,2018,Government Arts College - Salem,"2020,2021,2022,2023,2024,2025",0.84
+Tamil Nadu,Government Arts College - Cuddalore,2018,Government Arts College - Udumalpet,"2019,2020",0.852
+Tamil Nadu,Government Arts College - Karur,2018,Government Arts College - Salem,"2020,2021,2022,2023,2024,2025",0.826
+Tamil Nadu,Government Arts College - Karur,2018,Government Arts College - Tiruppur,"2018,2021,2022,2023,2025",0.857
+Tamil Nadu,Government Arts College - Salem,"2020,2021,2022,2023,2024,2025",Government Arts College - Udumalpet,"2019,2020",0.84
+Tamil Nadu,Government Arts College for Women,2025,LRG Government Arts College for Women,"2018,2019",0.931
+Tamil Nadu,Government Arts College for Women,2025,M. V. M. Govt. Arts College for Women,2019,0.931
+Tamil Nadu,Government Arts College for Women,2025,Stella Maris College for Women,"2018,2019,2020,2021,2022,2023,2024,2025",0.807
+Tamil Nadu,Government College of Engineering,2020,Government College of Technology,"2017,2018,2019,2020,2021,2022",0.824
+Tamil Nadu,Government College of Technology,"2017,2018,2019,2020,2021,2022",KCG College of Technology,"2020,2021",0.848
+Tamil Nadu,Government College of Technology,"2017,2018,2019,2020,2021,2022",PSG College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.848
+Tamil Nadu,Government College of Technology,"2017,2018,2019,2020,2021,2022",Sona College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.824
+Tamil Nadu,Hindusthan College of Arts and Science,"2017,2021,2022,2023,2024,2025",PSG College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,Hindusthan College of Arts and Science,"2017,2021,2022,2023,2024,2025",Rathinam College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.833
+Tamil Nadu,Hindusthan College of Arts and Science,"2017,2021,2022,2023,2024,2025",S R M College of Arts and Science,2017,0.8
+Tamil Nadu,Indian Institute of Management Tiruchirappalli,"2017,2018,2019,2020,2021,2022,2023,2024,2025",National Institute of Technology Tiruchirappalli,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.895
+Tamil Nadu,J. K. K. Nattraja College of Pharmacy,"2017,2018,2022",Karpagam College of Pharmacy,2018,0.815
+Tamil Nadu,K S R College of Engineering,2017,Karpagam College of Engineering,"2018,2020,2022",0.811
+Tamil Nadu,K. S. R. Arts & Science College,2019,Kongu Arts & Science College,"2017,2018,2019",0.88
+Tamil Nadu,K. S. R. Arts & Science College,2019,Kongunadu Arts & Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.815
+Tamil Nadu,K. S. R. Arts & Science College,2019,Mahendra Arts & Science College,"2017,2018,2019,2020,2021",0.83
+Tamil Nadu,K. S. R. Arts & Science College,2019,Nehru Arts and Science College,"2022,2023,2024,2025",0.88
+Tamil Nadu,K. S. R. Arts & Science College,2019,Sri Krishna Arts and Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.821
+Tamil Nadu,K. S. Rangasamy College of Technology,2018,K.S. Rangaswamy College of Arts and Science,2017,0.814
+Tamil Nadu,K. S. Rangasamy College of Technology,2018,K.S.Rangasamy College of Technology,2017,0.98
+Tamil Nadu,K.S. Rangaswamy College of Arts and Science,2017,Rathinam College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.825
+Tamil Nadu,K.S. Rangaswamy College of Arts and Science,2017,S R M College of Arts and Science,2017,0.828
+Tamil Nadu,K.S.R. College of Arts and Science for Women,2017,Sri Ramakrishna College of Arts & Science for Women,"2017,2018,2019,2024",0.825
+Tamil Nadu,K.S.Rangasamy College of Technology,2017,SNS College of Technology,"2020,2022",0.8
+Tamil Nadu,KCG College of Technology,"2020,2021",PSG College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.875
+Tamil Nadu,KCG College of Technology,"2020,2021",SNS College of Technology,"2020,2022",0.812
+Tamil Nadu,KMCH College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Karpagam College of Pharmacy,2018,0.826
+Tamil Nadu,KMCH College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Nandha College of Pharmacy,"2017,2022,2023,2024,2025",0.818
+Tamil Nadu,KMCH College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",PSG College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.829
+Tamil Nadu,KMCH College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",SSM College of Pharmacy,2017,0.878
+Tamil Nadu,Kamaraj College,"2024,2025",Kamaraj College of Engineering & Technology,"2017,2020",0.75
+Tamil Nadu,Kamaraj College,"2024,2025",Madura College,"2019,2020,2021,2022,2023,2024,2025",0.828
+Tamil Nadu,Kamaraj College of Engineering & Technology,"2017,2020",R. M. K. College of Engineering and Technology,"2020,2021,2022",0.826
+Tamil Nadu,Karpagam College of Pharmacy,2018,PSG College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.844
+Tamil Nadu,Karpagam College of Pharmacy,2018,SSM College of Pharmacy,2017,0.8
+Tamil Nadu,Kongu Arts & Science College,"2017,2018,2019",Kongunadu Arts & Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.929
+Tamil Nadu,Kongu Arts & Science College,"2017,2018,2019",Mahendra Arts & Science College,"2017,2018,2019,2020,2021",0.8
+Tamil Nadu,Kongu Arts & Science College,"2017,2018,2019",Nehru Arts and Science College,"2022,2023,2024,2025",0.885
+Tamil Nadu,Kongu Engineering College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",R.M.K. Engineering College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.824
+Tamil Nadu,Kongunadu Arts & Science College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Nehru Arts and Science College,"2022,2023,2024,2025",0.821
+Tamil Nadu,Kundavai Naachiyaar Government College for Women,2019,Kunthavai Naacchiyaar Government Arts College for Women,"2024,2025",0.901
+Tamil Nadu,LRG Government Arts College for Women,"2018,2019",M. V. M. Govt. Arts College for Women,2019,0.903
+Tamil Nadu,Madras Christian College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Scott Christian College,"2018,2019,2020,2021,2022,2023,2024,2025",0.809
+Tamil Nadu,Mahendra Arts & Science College,"2017,2018,2019,2020,2021",Nehru Arts and Science College,"2022,2023,2024,2025",0.836
+Tamil Nadu,Mary Matha College of Arts & Science,2017,Rathinam College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.867
+Tamil Nadu,Mary Matha College of Arts & Science,2017,S R M College of Arts and Science,2017,0.8
+Tamil Nadu,Meenakshi College for Women,"2017,2018",Sri Meenakshi Government College for Women,"2018,2019,2020",0.857
+Tamil Nadu,Muthayammal College of Arts & Science,2017,Rathinam College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.82
+Tamil Nadu,N. G. M. College,"2018,2019,2020,2021,2022,2023,2024,2025",The New College,"2018,2019,2020,2021,2022,2023,2024",0.818
+Tamil Nadu,National College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",National Engineering College,"2017,2018,2019,2020,2021,2022,2024",0.865
+Tamil Nadu,Nirmala College for Women,"2017,2018,2019,2020,2021,2022,2023,2024",Sri Sarada College for Women(Autonomous),"2019,2020,2021,2022,2023,2024,2025",0.83
+Tamil Nadu,Nirmala College for Women,"2017,2018,2019,2020,2021,2022,2023,2024",V.V. Vanniaperumal College for Women,"2017,2018,2019,2022,2023",0.814
+Tamil Nadu,Nirmala College for Women,"2017,2018,2019,2020,2021,2022,2023,2024",V.V.Vanniaperumal College for Women,2020,0.828
+Tamil Nadu,Nirmala College for Women,"2017,2018,2019,2020,2021,2022,2023,2024",Vellalar College for Women,"2018,2019,2020,2021,2022,2023,2024,2025",0.824
+Tamil Nadu,PSG College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",S R M College of Arts and Science,2017,0.917
+Tamil Nadu,PSG College of Pharmacy,"2017,2018,2019,2020,2021,2022,2023,2024,2025",SSM College of Pharmacy,2017,0.9
+Tamil Nadu,PSG College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",SNS College of Technology,"2020,2022",0.875
+Tamil Nadu,PSG College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sona College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.848
+Tamil Nadu,Quaid E Milleth Govt College for Women,2018,The Quaid-E-Milleth College for Men,2017,0.899
+Tamil Nadu,R. M. K. College of Engineering and Technology,"2020,2021,2022",Sri Krishna College of Engineering and Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,R.M.D. Engineering College,"2017,2018,2020,2021,2022",R.M.K. Engineering College,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.938
+Tamil Nadu,Rajalakshmi Engineering College,"2018,2019,2020,2021,2022,2023,2024,2025",Rajalakshmi Engineering College Engineering & Technology,2017,0.828
+Tamil Nadu,Rani Anna Government College for Women,"2018,2019,2021,2023,2025",Sri Meenakshi Government College for Women,"2018,2019,2020",0.824
+Tamil Nadu,Rathinam College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",S R M College of Arts and Science,2017,0.868
+Tamil Nadu,Rathinam College of Arts and Science,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sri Ramakrishna College of Arts and Science,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,S R M College of Arts and Science,2017,Sri Ramakrishna College of Arts and Science,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,S.R.M. Institute of Science and Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sathyabama Institute of Science and Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.816
+Tamil Nadu,"S.T. Hindu College, Nagercoil",2024,"S.T.Hindu College, Nagercoil","2022,2025",0.926
+Tamil Nadu,SNS College of Technology,"2020,2022",Sona College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.909
+Tamil Nadu,SSN School of Management,"2017,2018",Saveetha School of Management,2017,0.809
+Tamil Nadu,Sadakathullah Appa College,"2024,2025","Sadakathullah Appa College, Rahmath Nagar, Palayamkottai","2022,2023",0.65
+Tamil Nadu,Sarah Tucker College,2020,"Sarah Tucker College, Palayamkottai","2021,2022",0.741
+Tamil Nadu,Sarah Tucker College,2020,"Sarah Tucker College, Perumalpuram, Palayamkottai","2023,2024",0.597
+Tamil Nadu,"Sarah Tucker College, Palayamkottai","2021,2022","Sarah Tucker College, Perumalpuram, Palayamkottai","2023,2024",0.84
+Tamil Nadu,Shrimathi Devkunvar Nanalal Bhatt Vaishnav College For Women,2020,Srimathi D.N. Bhat Vaishnav College for Women,2017,0.835
+Tamil Nadu,Sree Ayyappa College for Women,2018,Sri Sarada College for Women(Autonomous),"2019,2020,2021,2022,2023,2024,2025",0.828
+Tamil Nadu,Sri Chandrasekharendra Saraswathi Vishwa Mahavidyalaya,"2017,2018,2019,2020,2021,2022",Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya,2023,0.991
+Tamil Nadu,Sri Krishna Adithya College of Arts and Science,"2023,2024,2025",Sri Ramakrishna College of Arts and Science,"2018,2019,2020,2021,2022,2023,2024,2025",0.842
+Tamil Nadu,Sri Krishna College of Engineering and Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Sri Krishna College of Technology,"2017,2018,2019,2020,2021,2022,2023,2024",0.906
+Tamil Nadu,Sri Ramachandra Institute of Higher Education and Research,"2019,2020,2021,2022,2023,2024,2025",Sri Ramachandra University,2017,0.492
+Tamil Nadu,Sri Ramachandra Medical College and Research Institute,2018,Sri Ramachandra University,2017,0.5
+Tamil Nadu,Sri Ramakrishna College of Arts & Science for Women,"2017,2018,2019,2024",Sri Ramakrishna College of Arts and Science,"2018,2019,2020,2021,2022,2023,2024,2025",0.878
+Tamil Nadu,Sri Ramakrishna College of Arts and Science,"2018,2019,2020,2021,2022,2023,2024,2025",Sri Ramakrishna Mission Vidyalaya College of Arts and Science,"2018,2019,2020,2021,2022,2023,2024,2025",0.8
+Tamil Nadu,Sri Sai Ram Engineering College,2017,Sri Sairam Engineering College,"2018,2019,2020,2021,2022,2023,2024,2025",0.979
+Tamil Nadu,Stella Maris College for Women,"2018,2019,2020,2021,2022,2023,2024,2025",Vellalar College for Women,"2018,2019,2020,2021,2022,2023,2024,2025",0.857
+Tamil Nadu,The Gandhigram Rural Institute,"2017,2018,2019,2020,2021,2022",The Gandhigram Rural Institute - Deemed University,2017,0.857
+Tamil Nadu,Thiagarajar College,"2018,2019,2020,2021,2022,2023,2024,2025",Thiagarajar College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.884
+Tamil Nadu,V.V. Vanniaperumal College for Women,"2017,2018,2019,2022,2023",V.V.Vanniaperumal College for Women,2020,0.985
+Tamil Nadu,Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College,2017,Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College,"2017,2018,2019",0.941
+Tamil Nadu,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Vel Tech Rangarajan Dr.Sagunthala R & D Institute of Science and Technology,2017,0.991
+Tamil Nadu,Vinayaka Mission''s Research Foundation,2021,Vinayaka Mission's Research Foundation,"2017,2019,2020,2022,2023,2024,2025",0.987
+Tamil Nadu,Women's Christian College - Chennai,"2018,2019,2020,2021,2022,2023,2024,2025",Women's Christian College - Nagercoil,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.848
+Telangana,BVRIT Hyderabad,"2019,2020",BVRIT Hyderabad College of Engineering for Women,"2021,2022",0.566
+Telangana,BVRIT Hyderabad,"2019,2020",Indian Institute of Technology Hyderabad,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.857
+Telangana,"Bharathiya Vidya Bhavan's Vivekananda College of Science, Humanities & Commerce","2018,2019","Bhavans Vivekananda College of Science, Humanities and Commerce","2020,2022,2024,2025",0.866
+Telangana,CMR College of Engineering & Technology,"2020,2021,2022",CVR College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.811
+Telangana,CMR College of Engineering & Technology,"2020,2021,2022",Malla Reddy College of Engineering and Technology (Autonomous),"2021,2022",0.8
+Telangana,CMR College of Pharmacy,"2021,2022,2023,2024,2025",Samskruti College of Pharmacy,"2017,2018,2019",0.826
+Telangana,CMR Engineering College,"2021,2022",MVSR Engineering College,2020,0.909
+Telangana,CMR Institute of Technology,"2021,2022",MLR Institute of Technology,"2017,2018,2020,2021",0.923
+Telangana,CVR College of Engineering,"2017,2018,2019,2020,2021,2022,2023,2024,2025",Vasavi College of Engineering,"2017,2018,2019,2020,2021,2022",0.8
+Telangana,Chaitanya Degree College,2017,Chaitanya PG College,2017,0.864
+Telangana,Goka Raju Ranga Raju Institute of Engineering & Technology,"2018,2019,2020,2021,2022,2023,2024,2025",Gokaraju Rangaraju Institute of Engineering & Technology,2017,0.971
+Telangana,Indian Institute of Technology Hyderabad,"2017,2018,2019,2020,2021,2022,2023,2024,2025",University of Hyderabad,"2017,2018,2019,2020,2021,2022,2023,2024,2025",0.815
+Telangana,Malla Reddy Engineering College,"2021,2022",Malla Reddy Engineering College for Women,"2018,2020",0.828
+Telangana,Nizam College,2021,"Nizam College, Basheerbagh","2022,2024,2025",0.684
+Telangana,St. Ann's College for Women (Telangana),2024,St. Francis College for Women,"2018,2019,2020,2021,2022,2023,2024,2025",0.915
+Uttar Pradesh,G. L. A. University,"2017,2018,2021,2022,2023,2024,2025",Glocal University,"2022,2024,2025",0.842
+Uttar Pradesh,G.L.Bajaj Institute of Technology and Management,"2018,2021,2022,2023,2024,2025",Ganeshi Lal Bajaj Institute of Technology and Management,2017,0.848
+Uttar Pradesh,Jaipuria Institute of Management - Noida,"2017,2018,2019,2020,2021,2022,2023,2024,2025","Jaipuria Institute of Management, Lucknow","2017,2018,2019,2020,2021,2022,2023,2024,2025",0.871
+Uttar Pradesh,Noida Institute of Engineering & Technology,"2018,2019,2020,2021,2022,2023,2024,2025","Noida Institute of Engineering and Technology Business School, Greater Noida",2024,0.571
+West Bengal,Bengal Institute of Technology,"2018,2020",Narula Institute of Technology,"2017,2018,2019,2020,2021,2022",0.812
+West Bengal,Haldia Institute of Technology,"2017,2018,2019,2020,2021,2022",Narula Institute of Technology,"2017,2018,2019,2020,2021,2022",0.812
+West Bengal,Raja Narendra Lal Khan Women's College - Autonomous,"2021,2022,2023,2024",Raja Narendralal Khan Women's College,2017,0.857

@@ -1,0 +1,6 @@
+step,rows_changed,detail
+withdrawn_fix,1,Dental 2025 exact rank 18 -> withdrawn (raw score = 'Rank Withdrawn*')
+name_text,11,"fixed '?' apostrophes, doubled apostrophes, trailing digits"
+merge_keys,19,institutions that were split across two keys re-joined
+city,38,"placeholder/state-as-city values and 'locality, district' strings fixed"
+weight_scheme,50,Architecture/Law 2018-19 filled; recomputed score matches within 0.05

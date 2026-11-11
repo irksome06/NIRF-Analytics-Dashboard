@@ -1,0 +1,16 @@
+,value
+rows_raw,19742
+score_out_of_range_set_null,0
+TLR_out_of_range_set_null,0
+RPC_out_of_range_set_null,0
+GO_out_of_range_set_null,0
+OI_out_of_range_set_null,0
+PR_out_of_range_set_null,0
+same_name_institutions_split_by_city,38
+keys_kept_separate_due_to_same_year_clash,20
+state_filled_from_other_years,0
+city_filled_from_other_years,10
+duplicates_removed,8730
+ranks_inferred_from_score,0
+band_rows_without_range,0
+rows_clean,11012

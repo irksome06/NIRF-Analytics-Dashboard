@@ -1,0 +1,15 @@
+/* Dark theme overrides */
+:root {
+  --canvas: #0F172A; /* dark background */
+  --surface: #1E293B; /* panels */
+  --surface-subtle: #1F2937;
+  --ink: #F8FAFC; /* text */
+  --muted: #94A3B8; /* secondary text */
+  --line: #334155; /* borders */
+  --brand: #2563EB;
+  --brand-dark: #1E40AF;
+  --brand-soft: #1E293B;
+  --brand-gradient: linear-gradient(135deg, #1E40AF 0%, #2563EB 100%);
+  --gold: #F59E0B;
+  --gold-soft: #FEF3C7;
+}
